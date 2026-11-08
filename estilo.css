@@ -1,0 +1,4 @@
+:root{--bg:#030405;--t:#d7dde5;--f:#8a95a3;--c:#38e1ff}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--t);font:16px/1.65 system-ui,Segoe UI,sans-serif}
+main{max-width:760px;margin:0 auto;padding:48px 16px}h1{font-size:28px;margin:0 0 8px}h2{font-size:19px;margin:28px 0 6px}
+p,li{color:var(--t)}small,.f{color:var(--f)}a{color:var(--c)}nav{display:flex;gap:16px;margin-bottom:32px}
